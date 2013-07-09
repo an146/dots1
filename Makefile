@@ -1,0 +1,2 @@
+ignores:
+	cat .gitignores/* >.gitignore
